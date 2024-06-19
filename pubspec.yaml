@@ -1,7 +1,8 @@
 name: at_word_cloud
-description: "A new Flutter package project."
+description: "A new Flutter package to build wordcloud."
 version: 0.0.1
-homepage:
+author: Agile Teknik Alliance
+homepage: https://github.com/dzikrimutawakkil/at_word_cloud
 
 environment:
   sdk: '>=3.3.4 <4.0.0'
