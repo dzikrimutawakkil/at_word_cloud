@@ -4,7 +4,7 @@ import 'package:at_word_cloud/utils/word_cloud_setting.dart';
 import 'package:flutter/material.dart';
 
 // ignore: must_be_immutable
-class WordCloud extends StatelessWidget {
+class ATWordCloud extends StatelessWidget {
   final Map<String, int> words;
   double? width;
   double? height;
@@ -14,7 +14,7 @@ class WordCloud extends StatelessWidget {
   List<Color>? textColor;
   Shape? shape;
 
-  WordCloud({
+  ATWordCloud({
     super.key,
     required this.words,
     this.width,
